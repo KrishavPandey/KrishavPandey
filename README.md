@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KrishavPandey and im 11 years old 
-- 👀 I’m interested in coding + maths 
-- 🌱 I’m currently learning java 
+- 👀 I’m interested in coding + maths
 - 🧠 I currently know HTML, CSS and Python 
 - 🎓 My programming teacher is code with harry 
 <!---
